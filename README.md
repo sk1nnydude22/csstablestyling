@@ -1,6 +1,6 @@
 <style type=”text/css”>
 
-.box1 {
+.row1 {
 
 height: 300px;
 
