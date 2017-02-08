@@ -10,7 +10,7 @@ width: 300px;
 
 margin: auto;
 
-padding: 5px 5px 5px 5px;
+padding: 5px;
 }
 </style>
 
