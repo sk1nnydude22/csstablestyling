@@ -1,4 +1,4 @@
-<style type=”text/css”>
+<style type=”box/css”>
 
 .row1 {
 
