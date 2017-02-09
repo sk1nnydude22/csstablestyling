@@ -1,4 +1,4 @@
-<style type=”box/css”>
+<style rel="stylesheet" type="text/css" href="project8/README">
 
 .row1 {
 
