@@ -12,5 +12,8 @@ margin: auto;
 
 padding: 5px;
 }
+#highs{font-family:Verdana;
+font-weight:thick;
+font-color:blue;
+}
 </style>
-
